@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sohail-portfolio/static/css/main.9576289a.css",
+    "main.js": "/sohail-portfolio/static/js/main.79394915.js",
+    "index.html": "/sohail-portfolio/index.html",
+    "main.9576289a.css.map": "/sohail-portfolio/static/css/main.9576289a.css.map",
+    "main.79394915.js.map": "/sohail-portfolio/static/js/main.79394915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9576289a.css",
+    "static/js/main.79394915.js"
+  ]
+}
