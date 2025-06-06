@@ -101,7 +101,7 @@ export default function Portfolio() {
           <div className="max-w-4xl w-full">
             <h2 className="text-4xl font-bold text-slate-100 mb-4">Education</h2>
             <ul className="text-slate-400 space-y-4">
-              <li><strong className="text-slate-100">B.Tech – CSE (AI & ML)</strong><br />Sree Vidyanikethan Engineering College – CGPA: 9.12</li>
+              <li><strong className="text-slate-100">B.Tech – CSE (AI & ML)</strong><br />Sree Vidyanikethan Engineering College – CGPA: 9.19</li>
               <li><strong className="text-slate-100">12th Grade (MPC)</strong><br />Narayana Junior College – 96.5%</li>
               <li><strong className="text-slate-100">10th Grade</strong><br />Narayana e-Techno Schools – GPA: 10.0</li>
             </ul>
@@ -129,6 +129,10 @@ export default function Portfolio() {
               <li><strong className="text-slate-100 text-lg">Early Detection of Diabetic Retinopathy</strong><br />Used Xception, VGG16, ResNet101 for binary classification, and Swin ViT for severity grading of diabetic retinopathy.</li>
               <li><strong className="text-slate-100 text-lg">Library Management System</strong><br />Full-stack app with login, book search, and real-time updates. Built with HTML, CSS, JS, and PHP.</li>
               <li><strong className="text-slate-100 text-lg">Cosmetics Store CRM</strong><br />Salesforce-based CRM for managing customer data, products, and leads.</li>
+              <li><strong className="text-slate-100 text-lg">Toll Plaza Data Analysis Dashboard</strong><br />Developed an interactive Power BI dashboard analyzing data and performing data cleaning
+ using Python to ensure accuracy and consistency, visualized key metrics, enable stakeholders to gain insights into toll plaza
+ distribution and management across different regions.
+</li>
             </ul>
           </div>
         </section>
